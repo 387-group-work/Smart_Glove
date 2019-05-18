@@ -1,4 +1,4 @@
-#Overview
+## Overview
 
        The smart glove is the primary part of the project as it is the part the user will be in contact with.  
   It consists a 433MHz transmitter, an accelerometer and a bluetooth transmitter all controlled by a  
