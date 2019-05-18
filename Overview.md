@@ -15,8 +15,7 @@ not yield any noticeable improvement.  To solve that a better transmitter/receiv
 another Bluetooth module, the HM-10 when the JDY16 did not work. The advantage of HM-10 is that it could be connected to 
 iOS devices which are more widely used in campus. Once this was connected the glove could send the rep count to the users phone,
 they could then enter the weight they lifted with so the glove (arduino nano) could calculate the total volume lifted for the 
-user to save to their phone. The rep count was also sent to a display for the user to see as they worked out, and here there was  
-also a timer for the weightlifter to use.
+user to save to their phone. The rep count was also sent to a display for the user to see as they worked out, and here there was also a timer for the weightlifter to use.
 
    The overall problem this was trying to solve which was helping a person keep track of reps, time, and total volume lifted.
 This transmitter did what it needed to in order to solve that problem. In the future this could be adapted to other exercises  
