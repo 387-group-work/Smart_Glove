@@ -14,7 +14,7 @@ not yield any noticeable improvement.  To solve that a better transmitter/receiv
    In order to connect to the phone, we first tried the JDY16 Bluetooth module. We have decided to move on to  
 another Bluetooth module, the HM-10 when the JDY16 did not work. The advantage of HM-10 is that it could be connected to 
 iOS devices which are more widely used in campus. Once this was connected the glove could send the rep count to the users phone,
-they could then enter the weight they lifted with so the glove (arduino nano) could calculate the total volume lifted for the  
+they could then enter the weight they lifted with so the glove (arduino nano) could calculate the total volume lifted for the 
 user to save to their phone. The rep count was also sent to a display for the user to see as they worked out, and here there was  
 also a timer for the weightlifter to use.
 
